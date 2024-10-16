@@ -1,4 +1,4 @@
-# Sentiment Analysis of Amazon Reviews Using BERT and Transformer Models
+# Sentiment Analysis of Amazon Reviews Using BERT and Transformer Models with Pytorch
 
 ## Overview
 
